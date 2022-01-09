@@ -1,1 +1,18 @@
-Hello
+Git commands-
+
+git init
+git remote add origin https://github.com/deversh711/minorproject.git
+
+git status
+git add filename
+git commit -m "commit_name"
+
+git push origin branch_name
+>
+git push origin master
+
+git pull origin master
+
+
+To check branch 
+git branch
