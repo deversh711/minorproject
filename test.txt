@@ -1,18 +1,23 @@
 Git commands-
 
-git init
-git remote add origin https://github.com/deversh711/minorproject.git
-
-git status
-git add filename
-git commit -m "commit_name"
-
-git push origin branch_name
->
-git push origin master
-
-git pull origin master
+ start
+compelete path
+1.cd foldername
+2.git init
+3.git remote add origin https://github.com/deversh711/minorproject.git
 
 
-To check branch 
-git branch
+process to push any files to otheruser
+
+1.git status
+2.git branch
+3.git add (filename)
+4.git commit -m (commit_name)
+5.git push origin (branch_name)
+
+to pull
+1.git pull origin branch_name
+
+to check the changes in cmd
+git diff (file_name)
+git diff
